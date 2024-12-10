@@ -21,21 +21,21 @@ I am a passionate Data Scientist, Data Analyst, and Business Intelligence Analys
 📄 Know about my experiences at [my website](https://bitzsspace.com/)
 </div>
 
-<div style="margin-top: 20px">
-	<a href="mailto:bitzsalex@gmail.com" target="_blank">
-		<img style="display: inline-block;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Logo" />
+<div style="margin-top: 20px; display: flex; gap: 4px; flex-wrap: wrap;">
+	<a style="display: flex; border-radius: 4px; overflow: hidden; padding: 2px; background: #0077B5;" href="https://www.linkedin.com/in/bitzsalex/" target="_blank">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo" />
 	</a>
-	<a href="https://www.linkedin.com/in/bitzsalex/" target="_blank">
-		<img style="display: inline-block;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo" />
+	<a style="display: flex; border-radius: 4px; overflow: hidden; padding: 2px; background: #1877F2;" href="https://www.facebook.com/bitzsspace" target="_blank">
+		<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Logo" />
 	</a>
-	<a href="https://www.kaggle.com/betizazualemu" target="_blank">
-		<img style="display: inline-block;" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Logo" />
+	<a style="display: flex; border-radius: 4px; overflow: hidden; padding: 2px; background: #20BEFF;" href="https://www.kaggle.com/betizazualemu" target="_blank">
+		<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Logo" />
 	</a>
-	<a href="https://www.youtube.com/@bitzsspace" target="_blank">
-		<img style="display: inline-block;" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Logo" />
+	<a style="display: flex; border-radius: 4px; overflow: hidden; padding: 2px; background: #D14836;" href="mailto:bitzsalex@gmail.com" target="_blank">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Logo" />
 	</a>
-	<a href="https://www.facebook.com/bitzsspace" target="_blank">
-		<img style="display: inline-block;" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Logo" />
+	<a style="display: flex; border-radius: 4px; overflow: hidden; padding: 2px; background: #FF0000;" href="https://www.youtube.com/@bitzsspace" target="_blank">
+		<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Logo" />
 	</a>
 </div>
 
